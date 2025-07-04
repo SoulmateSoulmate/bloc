@@ -97,7 +97,7 @@ class Data {
     ),
     Message(
       id: '12',
-      message: "🤩🤩",
+      message: "🤩",
       createdAt: DateTime.now(),
       sendBy: '2',
     ),
