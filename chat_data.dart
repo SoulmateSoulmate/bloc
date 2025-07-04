@@ -8,8 +8,7 @@ class Data {
       id: '1',
       message: "Hi!",
       createdAt: DateTime.now(),
-      sendBy: '1', // userId of who sends the message
-
+      sendBy: '1', 
     ),
     Message(
       id: '2',
